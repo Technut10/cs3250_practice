@@ -19,3 +19,11 @@ def encrypt_string(someMessage: str):
         raise TypeError('Input must be a string')
     
     return base64.encodebytes(someMessage.encode('utf-8'))
+  
+print("blahosdiahgfoasdipuguhiuladshifgkhasdhfguhsailudghosdakgbjdsafkhgdsv")
+
+i = 0
+
+while (i == 0):
+    print("i = 0")
+
